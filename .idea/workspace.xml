@@ -1,15 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_10_blackjack_capstone/1_10_blackjack_capstone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_10_blackjack_capstone/blackjack_capstone_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_11_1_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_11_2_number_guessing/1_11_2_number_guessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_11_2_number_guessing/number_guessing_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_12_higher_or_lower_game/1_12_higher_or_lower_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_12_higher_or_lower_game/higher_or_lower_game_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_12_higher_or_lower_game/higher_or_lower_game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_13_coffee_machine(OOP)/1_13_coffee_machine(OOP).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_13_coffee_machine(OOP)/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_13_coffee_machine(OOP)/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_13_coffee_machine(OOP)/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_13_coffee_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_14_quiz_game/1_14_quiz_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_14_quiz_game/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_14_quiz_game/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_14_quiz_game/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_1_band_name_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_2_tip_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_3_1_check_odd _or_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_3_2_pizza_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_3_3_treasure_island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_4_rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_5_password_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_6_hangman/1_6_hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_6_hangman/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_6_hangman/hangman_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_7_caesar_cipher/1_7_caesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_7_caesar_cipher/caesar_cipher_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_8_secret_auction/1_8_secret_auction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_8_secret_auction/secret_auction_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_9_1_format_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_9_2_leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_9_3_calculator/1_9_3_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_python_basics/1_9_3_calculator/calculator_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rubylian13&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6eda9a50-692e-47c2-8dbc-38a32ea9fb99" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rubylian13/python_practice.git&quot;,
+    &quot;accountId&quot;: &quot;6eda9a50-692e-47c2-8dbc-38a32ea9fb99&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="355SeZJ2eaXM1wO5pyr9Pjssnu4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,9 +83,41 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1_10_blackjack_capstone.executor": "Run",
+    "Python.1_11_1_prime.executor": "Run",
+    "Python.1_12_higher_or_lower_game.executor": "Run",
+    "Python.1_13_coffee_machine.executor": "Run",
+    "Python.1_1_band_name_generator.executor": "Run",
+    "Python.1_2_tip_calculator.executor": "Run",
+    "Python.1_3_1_check_odd _or_even.executor": "Run",
+    "Python.1_4_rock_paper_scissors.executor": "Run",
+    "Python.1_5_password_generator.executor": "Run",
+    "Python.1_6_hangman.executor": "Run",
+    "Python.1_7_caesar_cipher.executor": "Run",
+    "Python.1_8_secret_auction.executor": "Run",
+    "Python.1_9_1_format_name.executor": "Run",
+    "Python.1_9_2_leap_year.executor": "Run",
+    "Python.1_9_3_calculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/1_python_basics",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1_python_basics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1_python_basics" />
+      <recent name="$PROJECT_DIR$/1_python_basics/1_13_coffee_machine(OOP)" />
+      <recent name="$PROJECT_DIR$/1_python_basics/1_12_higher_or_lower_game" />
+      <recent name="$PROJECT_DIR$/1_python_basics/1_11_2_number_guessing" />
+      <recent name="$PROJECT_DIR$/1_python_basics/1_10_blackjack_capstone" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -36,5 +134,16 @@
       <updated>1762398535262</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
