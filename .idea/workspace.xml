@@ -4,31 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="1_python_basics">
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_1_the_hirst_painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_2_turtle_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_3_snake_game/2_3_snake_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_3_snake_game/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_3_snake_game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_3_snake_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_3_snake_game/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_4_the_pong_game/2_4_the_pong_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_4_the_pong_game/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_4_the_pong_game/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_4_the_pong_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_5_turtle_crossing_game/2_5_turtle_crossing_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_5_turtle_crossing_game/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_5_turtle_crossing_game/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_5_turtle_crossing_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_6_mail_merge_challenge/2_6_mail_merge_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_6_mail_merge_challenge/Input/Letters/starting_letter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_6_mail_merge_challenge/Input/Names/invited_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_7_US_States_game/2_7_U.S_States_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_7_US_States_game/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_7_US_States_game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_8_NATO_alphabet/2_8_NATO_alphabet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_turtle_projects/2_8_NATO_alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_python_basics/1_8_secret_auction/1_8_secret_auction.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_python_basics/1_8_secret_auction/1_8_secret_auction.py" afterDir="false" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="2_turtle_projects">
+      <change afterPath="$PROJECT_DIR$/3_tkinter_porjects/3_1_miles_to_KMs_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_tkinter_porjects/3_2_pomodoro_clock/3_2_pomodoro_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_tkinter_porjects/3_2_pomodoro_clock/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_tkinter_porjects/3_3_password_manager/3_3_password_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_tkinter_porjects/3_3_password_manager/logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,17 +78,22 @@
     "Python.2_6_mail_merge_challenge.executor": "Run",
     "Python.2_7_U.S_States_game.executor": "Run",
     "Python.2_8_NATO_alphabet.executor": "Run",
+    "Python.3_1_miles_to_KMs_converter.executor": "Run",
+    "Python.3_2_pomodoro.executor": "Run",
+    "Python.3_3_password_manager.executor": "Run",
     "Python.scoreboard.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/2_turtle_projects/2_8_NATO_alphabet",
+    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/3_tkinter_porjects/3_3_password_manager",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3_tkinter_porjects/3_3_password_manager" />
+      <recent name="$PROJECT_DIR$/3_tkinter_porjects/3_2_pomodoro" />
       <recent name="$PROJECT_DIR$/2_turtle_projects/2_8_NATO_alphabet" />
       <recent name="$PROJECT_DIR$/2_turtle_projects/2_7_US_States_game" />
       <recent name="$PROJECT_DIR$/1_python_basics" />
@@ -151,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762834323614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2_turtle_projects">
+      <option name="closed" value="true" />
+      <created>1762905525783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762905525783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2_turtle_projects">
+      <option name="closed" value="true" />
+      <created>1762905547251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762905547251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1_python_basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="1_python_basics" />
+    <MESSAGE value="2_turtle_projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="2_turtle_projects" />
   </component>
 </project>
