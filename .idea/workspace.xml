@@ -4,24 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="3_tkinter_porjects">
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_1_NATO_alphabet/4_1_NATO_alphabet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_1_NATO_alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_2_password_manager/4_2_password_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_2_password_manager/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/4_3_flash_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/data/french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_4_quote_automatic_sender/4_4_quote_automatic_sender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_4_quote_automatic_sender/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher/4_5_automated_birthday_wisher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher/birthdays.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher/letter_templates/letter_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher/letter_templates/letter_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher/letter_templates/letter_3.txt" afterDir="false" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="4_exception_class_projects">
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app/5_1_kanye_quotes_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_2_iss_overhead_notifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/5_3_quizzler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_4_rain_forecast_sender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_5_stock_news_monitoring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_6_habit_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_7_tracker_with_google_sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/5_8_cheap_flight_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/5_9_the_flight_club.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/notification_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -66,6 +76,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1_10_blackjack_capstone.executor": "Run",
     "Python.1_11_1_prime.executor": "Run",
@@ -96,29 +107,37 @@
     "Python.4_1_NATO_alphabet.executor": "Run",
     "Python.4_2_password_manager.executor": "Run",
     "Python.4_3_flash_card.executor": "Run",
+    "Python.5_1_kanye_quotes_app.executor": "Run",
+    "Python.5_2_iss_overhead_notifier.executor": "Run",
+    "Python.5_3_quizzler.executor": "Run",
+    "Python.5_4_sending_SMS.executor": "Run",
+    "Python.5_7_tracker_with_google_sheet.executor": "Run",
+    "Python.hello.executor": "Run",
     "Python.scoreboard.executor": "Run",
+    "Python.server.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/4_exception_class_projects/4_5_automated_birthday_wisher",
+    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/5_requests_projects/5_9_the_flight_club",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher" />
-      <recent name="$PROJECT_DIR$/4_exception_class_projects/4_5_automated_birthday_wisher/letter_templates" />
-      <recent name="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/images" />
-      <recent name="$PROJECT_DIR$/4_exception_class_projects/4_3_flash_card/data" />
-      <recent name="$PROJECT_DIR$/4_exception_class_projects/4_2_password_manager" />
+      <recent name="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club" />
+      <recent name="$PROJECT_DIR$/5_requests_projects/5_7_tracker_with_google_sheet" />
+      <recent name="$PROJECT_DIR$/5_requests_projects/5_3_quizzler" />
+      <recent name="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/images" />
+      <recent name="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2_turtle_projects/2_8_NATO_alphabet" />
-      <recent name="$PROJECT_DIR$/2_turtle_projects/2_7_US_States_game" />
-      <recent name="$PROJECT_DIR$/2_turtle_projects/2_5_turtle_crossing_game" />
-      <recent name="$PROJECT_DIR$/2_turtle_projects/2_4_the_pong_game" />
-      <recent name="$PROJECT_DIR$/2_turtle_projects/2_3_snake_game" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/5_requests_projects" />
+      <recent name="$PROJECT_DIR$/5_requests_projects/5_5_" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -176,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762998592732</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4_exception_class_projects">
+      <option name="closed" value="true" />
+      <created>1763087306952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763087306952</updated>
+    </task>
+    <task id="LOCAL-00007" summary="4_exception_class_projects">
+      <option name="closed" value="true" />
+      <created>1763087358437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763087358437</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +229,7 @@
     <MESSAGE value="1_python_basics" />
     <MESSAGE value="2_turtle_projects" />
     <MESSAGE value="3_tkinter_porjects" />
-    <option name="LAST_COMMIT_MESSAGE" value="3_tkinter_porjects" />
+    <MESSAGE value="4_exception_class_projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="4_exception_class_projects" />
   </component>
 </project>
