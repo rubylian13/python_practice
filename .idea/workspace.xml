@@ -4,33 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="4_exception_class_projects">
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app/5_1_kanye_quotes_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_1_kanye_quotes_app/kanye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_2_iss_overhead_notifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/5_3_quizzler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/images/false.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/images/true.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_3_quizzler/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_4_rain_forecast_sender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_5_stock_news_monitoring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_6_habit_tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_7_tracker_with_google_sheet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/5_8_cheap_flight_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_8_cheap_flight_finder/notification_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/5_9_the_flight_club.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_requests_projects/5_9_the_flight_club/notification_manager.py" afterDir="false" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="5_requests_projects">
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_1_100movies/6_1_100movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_1_100movies/movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_2_spotify_playlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_3_amazon_price_tracker_bot/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_3_amazon_price_tracker_bot/6_3_amazon_price_tracker_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_4_cookie_clicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_5_gym_booking_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_6_tinder_swiping_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_7_twitter_complaint_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_8_instagram_follower_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_selenium_projects/6_9_data_entry_automation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763087358437</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="5_requests_projects">
+      <option name="closed" value="true" />
+      <created>1763179973488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763179973488</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5_requests_projects">
+      <option name="closed" value="true" />
+      <created>1763179983418</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763179983418</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +231,7 @@
     <MESSAGE value="2_turtle_projects" />
     <MESSAGE value="3_tkinter_porjects" />
     <MESSAGE value="4_exception_class_projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="4_exception_class_projects" />
+    <MESSAGE value="5_requests_projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="5_requests_projects" />
   </component>
 </project>
