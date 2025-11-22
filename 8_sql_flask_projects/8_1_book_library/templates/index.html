@@ -1,0 +1,25 @@
+{% extends "bootstrap/base.html" %}
+{% block html_attribs %} lang="en"{% endblock %}
+
+{% block head %}
+ <title>{% block title %} My movie site{% endblock %}</title>
+  {% block styles %}
+   {{ super() }}
+ {% endblock %}
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <h1>My Library</h1>
+    <ul>
+        {% if books == [] %}
+            <p>Library is empty.</p>
+        {% else %}
+            {% for book in books %}
+            <li>{{book["title"]}} - {{book["author"]}} - {{book["rating"]}}</li>
+            {% endfor %}
+        {% endif %}
+    </ul>
+    <a href="{{url_for('add')}}">Add New Book</a>
+</div>
+{% endblock %}

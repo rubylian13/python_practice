@@ -1,0 +1,16 @@
+{% extends "bootstrap/base.html" %}
+{% block html_attribs %} lang="en"{% endblock %}
+
+{% block head %}
+ <title>{% block title %} My movie site{% endblock %}</title>
+  {% block styles %}
+   {{ super() }}
+ {% endblock %}
+{% endblock %}
+
+{% block body %}
+   <div class="container">
+      <h1>Success!!</h1>
+      <a href="{{url_for('home')}}"> Back to home</a>
+   </div>
+{% endblock %}
