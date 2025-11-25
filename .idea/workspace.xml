@@ -4,71 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="7_flask_projects">
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_1_book_library/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_1_book_library/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_1_book_library/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_1_book_library/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_2_book_library_SQLAlchemy/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_2_book_library_SQLAlchemy/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_2_book_library_SQLAlchemy/templates/edit_rating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_2_book_library_SQLAlchemy/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_3_top_favourite_movies/templates/select.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_4_cafe_api/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_4_cafe_api/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/assets/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/assets/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/assets/img/edit-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/assets/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/assets/img/post-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/make-post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/static/files/cheat_sheet.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/templates/secrets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/angela-profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/default-profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/edit-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/login-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/post-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/assets/img/register-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/make-post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates/register.html" afterDir="false" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="portfolio1 - Text to Morse Code Converter">
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/images/intro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_split.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_spotlights.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_intro.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,17 +165,17 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/8_sql_flask_projects/8_7_blog_v5/static",
+    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/9_portfolio/9_2_personal_website/templates",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9_portfolio/9_2_personal_website/templates" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static" />
       <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static" />
       <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates" />
       <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/static" />
-      <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/templates" />
-      <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_5_blog_v4/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog/static" />
@@ -301,7 +304,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763617956352</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="8_SQL_Flask_projects">
+      <option name="closed" value="true" />
+      <created>1763800556256</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763800556256</updated>
+    </task>
+    <task id="LOCAL-00015" summary="8_SQL_Flask_projects">
+      <option name="closed" value="true" />
+      <created>1763800564004</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763800564004</updated>
+    </task>
+    <task id="LOCAL-00016" summary="portfolio1 - Text to Morse Code Converter">
+      <option name="closed" value="true" />
+      <created>1764035070929</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764035070929</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +350,8 @@
     <MESSAGE value="5_requests_projects" />
     <MESSAGE value="6_selenium_projects" />
     <MESSAGE value="7_flask_projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_flask_projects" />
+    <MESSAGE value="8_SQL_Flask_projects" />
+    <MESSAGE value="portfolio1 - Text to Morse Code Converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio1 - Text to Morse Code Converter" />
   </component>
 </project>
