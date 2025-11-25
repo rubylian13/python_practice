@@ -1,3 +1,6 @@
+"""
+A website to show off your skills and the things you've built.
+"""
 from flask import Flask, render_template
 
 app = Flask(__name__)
