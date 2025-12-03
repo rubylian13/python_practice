@@ -4,74 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="portfolio1 - Text to Morse Code Converter">
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/images/intro.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/jquery.scrollex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/jquery.scrolly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/base/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_actions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_features.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_split.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_spotlights.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/components/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_intro.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/sass/noscript.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static/images/pic06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_2_personal_website/templates/index.html" afterDir="false" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="portfolio6 - Breakout Game">
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook/dog_story.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook/open_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_11_image_color_palette_generator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_11_image_color_palette_generator/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_12_custom_web_scraper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_12_custom_web_scraper/scraper_beautifulsoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_13_automate_the_google_dinosaur_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_14_space_invaders/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_tiles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates/cafe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_8_todo_list/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_8_todo_list/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_9_disappearing_text_writing_app/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,73 +132,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1_10_blackjack_capstone.executor": "Run",
-    "Python.1_11_1_prime.executor": "Run",
-    "Python.1_12_higher_or_lower_game.executor": "Run",
-    "Python.1_13_coffee_machine.executor": "Run",
-    "Python.1_1_band_name_generator.executor": "Run",
-    "Python.1_2_tip_calculator.executor": "Run",
-    "Python.1_3_1_check_odd _or_even.executor": "Run",
-    "Python.1_4_rock_paper_scissors.executor": "Run",
-    "Python.1_5_password_generator.executor": "Run",
-    "Python.1_6_hangman.executor": "Run",
-    "Python.1_7_caesar_cipher.executor": "Run",
-    "Python.1_8_secret_auction.executor": "Run",
-    "Python.1_9_1_format_name.executor": "Run",
-    "Python.1_9_2_leap_year.executor": "Run",
-    "Python.1_9_3_calculator.executor": "Run",
-    "Python.2_1_the_hirst_painting.executor": "Run",
-    "Python.2_2_turtle_race.executor": "Run",
-    "Python.2_3_snake_game.executor": "Run",
-    "Python.2_4_the_pong_game.executor": "Run",
-    "Python.2_5_turtle_crossing_game.executor": "Run",
-    "Python.2_6_mail_merge_challenge.executor": "Run",
-    "Python.2_7_U.S_States_game.executor": "Run",
-    "Python.2_8_NATO_alphabet.executor": "Run",
-    "Python.3_1_miles_to_KMs_converter.executor": "Run",
-    "Python.3_2_pomodoro.executor": "Run",
-    "Python.3_3_password_manager.executor": "Run",
-    "Python.4_1_NATO_alphabet.executor": "Run",
-    "Python.4_2_password_manager.executor": "Run",
-    "Python.4_3_flash_card.executor": "Run",
-    "Python.5_1_kanye_quotes_app.executor": "Run",
-    "Python.5_2_iss_overhead_notifier.executor": "Run",
-    "Python.5_3_quizzler.executor": "Run",
-    "Python.5_4_sending_SMS.executor": "Run",
-    "Python.5_7_tracker_with_google_sheet.executor": "Run",
-    "Python.7_1_flask_basics.executor": "Run",
-    "Python.7_2_higher_lower_game.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.scoreboard.executor": "Run",
-    "Python.server.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ruby/PycharmProjects/python_practice/9_portfolio/9_2_personal_website/templates",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1_10_blackjack_capstone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_11_1_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_12_higher_or_lower_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_13_coffee_machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_1_band_name_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_2_tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_3_1_check_odd _or_even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_4_rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_5_password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_6_hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_7_caesar_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_8_secret_auction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_9_1_format_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_9_2_leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_9_3_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_1_the_hirst_painting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_2_turtle_race.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_3_snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_4_the_pong_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_5_turtle_crossing_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_6_mail_merge_challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_7_U.S_States_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_8_NATO_alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_1_miles_to_KMs_converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_2_pomodoro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_3_password_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_1_NATO_alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_2_password_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_3_flash_card.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_1_kanye_quotes_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_2_iss_overhead_notifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_3_quizzler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_4_rain_forecast_sender.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_4_sending_SMS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_7_tracker_with_google_sheet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_2_spotify_playlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_9_data_entry_automation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_1_flask_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_2_higher_lower_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bricks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paddle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruby/PycharmProjects/python_practice/9_portfolio/9_10_convert_pdf_to_audiobook&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates" />
       <recent name="$PROJECT_DIR$/9_portfolio/9_2_personal_website/templates" />
-      <recent name="$PROJECT_DIR$/9_portfolio/9_2_personal_website/static" />
-      <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/static" />
-      <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_7_blog_v5/templates" />
-      <recent name="$PROJECT_DIR$/8_sql_flask_projects/8_6_authentication/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates" />
       <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog/static" />
       <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog" />
       <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog/templates" />
-      <recent name="$PROJECT_DIR$/7_flask_projects/7_3_personal_namecard/static" />
-      <recent name="$PROJECT_DIR$/7_flask_projects/7_3_personal_namecard/templates" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -328,7 +351,63 @@
       <option name="project" value="LOCAL" />
       <updated>1764035070929</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="portfolio2 - Personal Website">
+      <option name="closed" value="true" />
+      <created>1764036161053</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1764036161053</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add project description">
+      <option name="closed" value="true" />
+      <created>1764045702323</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764045702323</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add project description">
+      <option name="closed" value="true" />
+      <created>1764045736185</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1764045736185</updated>
+    </task>
+    <task id="LOCAL-00020" summary="portfolio3 - Tic Tac Toe">
+      <option name="closed" value="true" />
+      <created>1764237732331</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1764237732331</updated>
+    </task>
+    <task id="LOCAL-00021" summary="portfolio4 - Image Watermarking Desktop App">
+      <option name="closed" value="true" />
+      <created>1764320809981</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1764320809981</updated>
+    </task>
+    <task id="LOCAL-00022" summary="portfolio5 - Typing Speed Test">
+      <option name="closed" value="true" />
+      <created>1764553858670</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1764553858670</updated>
+    </task>
+    <task id="LOCAL-00023" summary="portfolio6 - Breakout Game">
+      <option name="closed" value="true" />
+      <created>1764641173882</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1764641173882</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +431,12 @@
     <MESSAGE value="7_flask_projects" />
     <MESSAGE value="8_SQL_Flask_projects" />
     <MESSAGE value="portfolio1 - Text to Morse Code Converter" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio1 - Text to Morse Code Converter" />
+    <MESSAGE value="portfolio2 - Personal Website" />
+    <MESSAGE value="add project description" />
+    <MESSAGE value="portfolio3 - Tic Tac Toe" />
+    <MESSAGE value="portfolio4 - Image Watermarking Desktop App" />
+    <MESSAGE value="portfolio5 - Typing Speed Test" />
+    <MESSAGE value="portfolio6 - Breakout Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio6 - Breakout Game" />
   </component>
 </project>

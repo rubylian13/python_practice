@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>All Cafes</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/main.css') }}">
+        <noscript><link rel="stylesheet" href="{{ url_for('static', filename='assets/css/noscript.css') }}" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="{{ url_for('home') }}" class="logo">
+									<span class="symbol"><img src="{{ url_for('static', filename='images/logo.svg') }}" alt="" /></span><span class="title">Cafe & Wifi</span>
+								</a>
+						</div>
+					</header>
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Cafes in {{ city_name.title() }}</h1>
+							<span class="image main"><img src="{{ url_for('static', filename='images/pic13.jpg') }}" alt="" /></span>
+                            <!-- table -->
+                            <div class="table-wrapper">
+                         <table>
+                            <thead>
+                               <tr>
+                                  <th>Cafe Name</th>
+                                  <th>Location</th>
+                                  <th>WiFi Strength</th>
+                                  <th>URL</th>
+                                  <th>Open Time</th>
+                               </tr>
+                            </thead>
+                            <tbody>
+                               {% for cafe in cafes %}
+                               <tr>
+                                  <td>{{ cafe.name }}</td>
+                                  <td>{{ cafe.address }}</td>
+                                  <td>{{ cafe.wifi }}</td>
+                                  <td><a href="{{ cafe.url }}" target="_blank">View</a></td>
+                                  <td>{{ cafe.open_time }}</td>
+                               </tr>
+                               {% endfor %}
+                            </tbody>
+                         </table>
+                        </div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="./static/assets/js/jquery.min.js"></script>
+			<script src="./static/assets/js/browser.min.js"></script>
+			<script src="./static/assets/js/breakpoints.min.js"></script>
+			<script src="./static/assets/js/util.js"></script>
+			<script src="./static/assets/js/main.js"></script>
+
+	</body>
+</html>
