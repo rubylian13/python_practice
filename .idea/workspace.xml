@@ -4,90 +4,207 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="portfolio6 - Breakout Game">
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook/dog_story.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook/open_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_11_image_color_palette_generator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_11_image_color_palette_generator/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_12_custom_web_scraper/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_12_custom_web_scraper/scraper_beautifulsoup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_13_automate_the_google_dinosaur_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_14_space_invaders/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/base/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_actions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/components/_tiles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/sass/noscript.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/images/pic15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates/cafe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_8_todo_list/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_8_todo_list/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_portfolio/9_9_disappearing_text_writing_app/main.py" afterDir="false" />
+    <list default="true" id="b3adb750-4102-4ae9-8152-6787aa7cbca5" name="Changes" comment="portfolio14 - Space Invaders">
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/assets/img/no_data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/css/tiny-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/bowl-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/bowl-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/couch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/dots-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/dots-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/dots-yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/envelope-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/img-grid-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/img-grid-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/img-grid-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/person-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/person-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/product-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/product-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/product-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/return.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/sofa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/support.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/truck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/images/why-choose-us-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/js/tiny-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/change_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/register_completed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates/thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_17_custom_automation/case_helper/case_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_17_custom_automation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_portfolio/9_17_custom_automation/request_manager/request_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/about_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/cover_bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img_bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img_bg_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img_bg_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/img_bg_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/jquery.countTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/jquery.flexslider-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/modernizr-2.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/_bootstrap-compass.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/_bootstrap-mincer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/_bootstrap-sprockets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_breadcrumbs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_button-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_component-animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_glyphicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_input-groups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_pager.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_popovers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_progress-bars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_responsive-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_responsive-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_scaffolding.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_thumbnails.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/_wells.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_center-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_hide-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_opacity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/static/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_project/Resume/templates/zh_version.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,24 +305,24 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ruby/PycharmProjects/python_practice/9_portfolio/9_10_convert_pdf_to_audiobook&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruby/PycharmProjects/python_practice/testing_project/Resume/static/images&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/9_portfolio/9_10_convert_pdf_to_audiobook" />
-      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static" />
-      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets/css" />
-      <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates" />
-      <recent name="$PROJECT_DIR$/9_portfolio/9_2_personal_website/templates" />
+      <recent name="$PROJECT_DIR$/testing_project/Resume/static/images" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/templates" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_16_an_online_shop/static" />
+      <recent name="$PROJECT_DIR$/testing_project/Resume/templates" />
+      <recent name="$PROJECT_DIR$/testing_project/Resume/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/js" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/assets/css" />
+      <recent name="$PROJECT_DIR$/9_portfolio/9_15_custom_api_based_website/static/assets" />
       <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/static/assets" />
       <recent name="$PROJECT_DIR$/9_portfolio/9_7_cafe&amp;wifi_website/templates" />
-      <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog/static" />
-      <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog" />
-      <recent name="$PROJECT_DIR$/7_flask_projects/7_5_bootstrap_tindog/templates" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -407,7 +524,71 @@
       <option name="project" value="LOCAL" />
       <updated>1764641173882</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="portfolio7 - Cafe and Wifi Website">
+      <option name="closed" value="true" />
+      <created>1764725055462</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1764725055462</updated>
+    </task>
+    <task id="LOCAL-00025" summary="portfolio8 - Todo List">
+      <option name="closed" value="true" />
+      <created>1764813870032</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1764813870032</updated>
+    </task>
+    <task id="LOCAL-00026" summary="portfolio9 - Disappearing Text Writing App">
+      <option name="closed" value="true" />
+      <created>1764938826408</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1764938826408</updated>
+    </task>
+    <task id="LOCAL-00027" summary="portfolio10 - Convert PDF to Audiobook">
+      <option name="closed" value="true" />
+      <created>1765163024715</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765163024715</updated>
+    </task>
+    <task id="LOCAL-00028" summary="portfolio11 - Image Colour Palette Generator">
+      <option name="closed" value="true" />
+      <created>1765245845777</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765245845777</updated>
+    </task>
+    <task id="LOCAL-00029" summary="portfolio12 - Custom Web Scraper">
+      <option name="closed" value="true" />
+      <created>1765377787636</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765377787636</updated>
+    </task>
+    <task id="LOCAL-00030" summary="portfolio13 - Automate the Google Dinosaur Game">
+      <option name="closed" value="true" />
+      <created>1765418843990</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765418843990</updated>
+    </task>
+    <task id="LOCAL-00031" summary="portfolio14 - Space Invaders">
+      <option name="closed" value="true" />
+      <created>1765505188938</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1765505188938</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +618,14 @@
     <MESSAGE value="portfolio4 - Image Watermarking Desktop App" />
     <MESSAGE value="portfolio5 - Typing Speed Test" />
     <MESSAGE value="portfolio6 - Breakout Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio6 - Breakout Game" />
+    <MESSAGE value="portfolio7 - Cafe and Wifi Website" />
+    <MESSAGE value="portfolio8 - Todo List" />
+    <MESSAGE value="portfolio9 - Disappearing Text Writing App" />
+    <MESSAGE value="portfolio10 - Convert PDF to Audiobook" />
+    <MESSAGE value="portfolio11 - Image Colour Palette Generator" />
+    <MESSAGE value="portfolio12 - Custom Web Scraper" />
+    <MESSAGE value="portfolio13 - Automate the Google Dinosaur Game" />
+    <MESSAGE value="portfolio14 - Space Invaders" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio14 - Space Invaders" />
   </component>
 </project>

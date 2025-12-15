@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Brewery Hunter</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./static/assets/css/style.css">
+</head>
+<body class="oak">
+
+  <!-- ===== HEADER / NAV ===== -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
+  <a class="navbar-brand d-flex align-items-center" href="{{ url_for('home') }}">
+    <img src="./static/assets/img/logo.png" alt="Oak Barrel Brewery Logo" width="40" height="40" class="me-2">
+    Brewery Hunter
+  </a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+</nav>
+
+  <!-- ===== HERO ===== -->
+  <section class="hero text-center text-light py-5">
+    <div class="container">
+      <h1>🍻 Brewery Hunter 🍻</h1>
+      <p>The Easiest Way to Find Breweries Near You</p>
+    </div>
+  </section>
+
+<!-- ===== SEARCH PANEL ===== -->
+<section class="search-panel py-4 text-light">
+  <div class="container d-flex justify-content-center flex-wrap gap-2">
+<form action="/search" method="get" id="search-form">
+  <select name="field" class="form-select">
+    <option value="name">Brewery Name</option>
+    <option value="brewery_type">Brewery Type</option>
+    <option value="country">Country</option>
+    <option value="city">City</option>
+  </select>
+  <input type="text" name="query" class="form-control">
+  <button type="submit" class="btn btn-warning">Search</button>
+</form>
+
+  </div>
+</section>
+
+
+  <!-- ===== BREWERY LIST (卡片 Grid + 標題) ===== -->
+  <section id="list" class="list-section py-5">
+    <div class="container">
+      <!-- 區塊標題 -->
+      <h2 class="text-center mb-4">Breweries</h2>
+
+        <!--卡片動態顯示-->
+        <div class="row g-4" id="brewery-cards">
+          {% for brewery in breweries %}
+          <div class="col-sm-6 col-md-4 col-lg-4">
+            <div class="brewery-card p-3 text-center rounded">
+              <h4>🍺 {{ brewery.name }} 🍺</h4>
+              <p>{{ brewery.city }}, {{ brewery.country }}</p>
+              <p class="type fst-italic text-warning">TYPE: {{ brewery.brewery_type }}</p>
+              {% if brewery.website_url %}
+              <p><a href="{{ brewery.website_url }}" class="text-warning" target="_blank">Website</a></p>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+
+        <div id="no-data" class="no-data-box" style="display:none;">
+          <img src="{{ url_for('static', filename='assets/img/no_data.png') }}“ alt="No Results" class="no-data-img">
+          <h3>No Results Found</h3>
+          <p>Try adjusting your search terms.</p>
+        </div>
+
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="bg-dark text-light text-center py-3 border-top border-warning">
+    <p>© 2025 BREWERY HUNTER</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

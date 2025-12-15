@@ -1,0 +1,97 @@
+/* ===== BODY & 基本配色 ===== */
+body {
+  font-family: sans-serif;
+  background-color: rgba(40,27,12,0.85);
+  color: #f7e9d6;
+}
+
+/* ===== NAVBAR ===== */
+.navbar {
+  background-color: rgba(40,27,12,0.95);
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #d4a05d;
+}
+
+/* ===== HERO ===== */
+.hero h1 {
+  color: #d4a05d;
+}
+
+/* ===== SEARCH PANEL ===== */
+.search-panel {
+  background-color: #281b0c;
+  padding: 1rem;                  /* 上下內距 */
+  margin: 2rem auto;              /* 上下外距，左右置中 */
+  border-radius: 30px;
+  width: 1300px;                   /* 橫條寬度 */
+  display: flex;
+  justify-content: center;        /* 水平置中內部元素 */
+}
+
+.search-panel .form-select,
+.search-panel .form-control {
+  flex: 1;
+  margin-right: 0.5rem;
+}
+
+.search-panel .btn {
+  flex: 0 0 auto;
+}
+
+.search-panel form {
+  width: 100%;           /* 讓表單撐滿外層區塊 */
+  max-width: 1300px;      /* 可選，限制最大寬度 */
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center; /* 水平置中元素 */
+  margin: 0 auto;          /* 置中整個表單 */
+}
+
+
+/* ===== BREWERY CARDS ===== */
+.brewery-card {
+  background-color: #281b0c;
+  color: #f7e9d6;
+  border: 2px solid #d4a05d;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.brewery-card:hover {
+  background-color: #3a2714;
+  color: #ffffff;
+  transform: translateY(-3px);
+}
+
+/* ===== FOOTER ===== */
+.footer {
+  background-color: rgba(40,27,12,0.95);
+  color: #f7e9d6;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.no-data-box {
+  display: none;
+  text-align: center;
+  margin-top: 40px;
+}
+.no-data-img {
+  max-width: 150px;
+  margin-bottom: 20px;
+}
